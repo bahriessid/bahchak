@@ -1,14 +1,38 @@
 import React from 'react'
 import styled from 'styled-components'
+import '../App.css'
 
-const Container =styled.div`
-background-color:red`;
+
+
 
 const Categorie = () => {
   return (
-<Container>
-    hhh
-</Container>
+
+         
+<div style={{ display: 'flex', justifyContent: 'center', padding:'60px' }}>
+         
+           
+         <a href="" title="" className="titreCat1" style={{ padding:'10px', }}>
+            Plants d'olivier
+         </a>
+         
+      
+         <a href="" title="" className="titreCat2" style={{ padding:'10px' }}>
+            Plants d’agrumes
+         </a>
+    
+   
+         <a href="" title="" className="titreCat3" style={{ padding:'10px' }}>
+            Plants fruitiers
+         </a>
+     
+      
+         <a href="" title="" className="titreCat4"  style={{ padding:'10px' }}>
+            Plants Décorative
+         </a>
+      
+
+   </div>
     
 
   )

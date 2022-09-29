@@ -47,11 +47,10 @@ const Footer = () => {
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon icon="gem" className="me-3" />
-                Delivagri 
+               El Manbet 
               </h6>
               <p>
-                Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet,
-                consectetur adipisicing elit.
+              Par son esprit novateur, El Manbet  perçoit  chaque défi comme une opportunité. Son objectif principal est de mettre à la disposition des agriculteurs ainsi des pépiniéristes des plants certifiés  de haute qualité, sélectionnés, adaptés  aux exigences de chaque région et surtout répondant aux besoins des agriculteurs. .
               </p>
             </MDBCol>
 
@@ -59,65 +58,42 @@ const Footer = () => {
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
                 <a href='#!' className='text-reset'>
-                  chatla1
+                Plants olivier
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                chatla2
+                Plants d'agrumes
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                chatla3
+                Plants fruitiers
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                chatla4
+                Plants Déco
                 </a>
               </p>
             </MDBCol>
 
-            <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Useful links</h6>
-              <p>
-                <a href='#!' className='text-reset'>
-                  Pricing
-                </a>
-              </p>
-              <p>
-                <a href='#!' className='text-reset'>
-                  Settings
-                </a>
-              </p>
-              <p>
-                <a href='#!' className='text-reset'>
-                  Orders
-                </a>
-              </p>
-              <p>
-                <a href='#!' className='text-reset'>
-                  Help
-                </a>
-              </p>
-            </MDBCol>
 
             <MDBCol md="4" lg="3" xl="3" className='mx-auto mb-md-0 mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
               <p>
                 <MDBIcon icon="home" className="me-2" />
-                Tunisia, lac1
+                Testour
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                chatla1@gmail.com
+                ElManbet@gmail.com
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" /> + 01 234 567 88
+                <MDBIcon icon="phone" className="me-3" /> + 216 21 129 785
               </p>
               <p>
-                <MDBIcon icon="print" className="me-3" /> + 01 234 567 89
+                <MDBIcon icon="print" className="me-3" /> + 216 55 068 339
               </p>
             </MDBCol>
           </MDBRow>
@@ -126,8 +102,8 @@ const Footer = () => {
 
       <div className='text-center p-4' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
         © 2022 Copyright:
-        <a className='text-reset fw-bold' href='https://chatla.com/'>
-        chatla.com
+        <a className='text-reset fw-bold' href='https://ElManbet.com/'>
+        ElManbet.com
         </a>
       </div>
     </MDBFooter>
